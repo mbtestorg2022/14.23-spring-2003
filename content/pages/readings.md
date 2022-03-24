@@ -105,7 +105,7 @@ Hogan, W. _[Competitive Electricity Market Design: A Wholesale Primer.](http://w
 Joskow, P. "California's Electricity Crisis." _Oxford Review of Economic Policy_ 17, 3 (2001): 365-388.
 
 Sweeney, J. _The California Electricity Crisis._ Stanford: Hoover Institution, 2002.  
-Available at: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.stanford.edu/~jsweeney/paper/Lessons%20for%20the%20Future.pdf))
+Available at: ([PDF](http://www.stanford.edu/~jsweeney/paper/Lessons%20for%20the%20Future.pdf))
 
 Class 17 - Externalities.
 -------------------------
